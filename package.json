@@ -14,18 +14,18 @@
     "@react-three/fiber": "^8.10.0",
     "@testing-library/react": "^13.4.0",
     "@types/three": "^0.148.0",
-    "@typescript-eslint/eslint-plugin": "^5.50.0",
-    "@typescript-eslint/parser": "^5.48.1",
     "eslint": "^8.39.0",
+    "@typescript-eslint/eslint-plugin": "^5.59.1",
+    "@typescript-eslint/parser": "^5.59.1",
     "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-react": "^7.32.1",
-    "prettier": "^2.8.3",
+    "prettier": "^2.8.8",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.6.2",
     "recoil": "^0.7.6",
-    "three": "^0.148.0"
+    "three": "^0.152.2"
   },
   "devDependencies": {
     "@types/react": "^18.0.26",
